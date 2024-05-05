@@ -83,6 +83,6 @@ Algumas liguagens e ferramentas que possuo um pouco de conhecimento.
 
 <div align=center>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas11oliveira&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas11oliveira&repo=community/lucas11oliveira.md&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucas11oliveira/community/lucas11oliveira.md)
 
 </div>
